@@ -1,4 +1,34 @@
-name: CS373 Spring 2016: Sydney Shutter
-markdown: redcarpet
 pygments: true
 baseurl: /CS373-Blog
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            CS373 Spring 2016: Sydney Shutter
+tagline:          
+description:      'The weekly blog for Sydney Shutter about the Software Engineering class at UT'
+url:              http://seshutter.github.io/CS373-Blog/
+
+author:
+  name:           'Sydney Shutter'
+  url:            
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           github.com/seshutter/CS373-Blog.git
+
+# This is the list of pages to include in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive'}
