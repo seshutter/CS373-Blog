@@ -1,7 +1,7 @@
 # Site settings
-title: CS373 Spring 2016: Sydney Shutter
+title: "CS373 Spring 2016: Sydney Shutter"
 email: seshutter@mac.com
-description: A weekly blog about the Software Engineering class at UT.
+description: "A weekly blog about the Software Engineering class at UT."
 baseurl: "/CS373-Blog" # the subpath of your site, e.g. /blog/
 url: "http://seshutter.github.io/CS373-Blog" # the base hostname & protocol for your site
 twitter_username: shuttahbuttah
