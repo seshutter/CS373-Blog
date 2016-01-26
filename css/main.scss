@@ -27,7 +27,15 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+// Adding profile photo
+.image-wrapper {
+    text-align: center;
 
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
