@@ -1,13 +1,12 @@
 # Site settings
-title: Clean
-email: your-email@domain.com
+title: CS373 Spring 2016: Sydney Shutter
+email: seshutter@mac.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
+  A weekly blog about the Software Engineering class at UT.
 baseurl: "/CS373-Blog" # the subpath of your site, e.g. /blog/
 url: "http://seshutter.github.io/CS373-Blog" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: shuttahbuttah
+github_username:  seshutter
 
 # Build settings
 markdown: kramdown
