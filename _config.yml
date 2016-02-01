@@ -6,6 +6,7 @@ baseurl: "/CS373-Blog" # the subpath of your site, e.g. /blog/
 url: "http://seshutter.github.io/CS373-Blog" # the base hostname & protocol for your site
 twitter_username: shuttahbuttah
 github_username:  seshutter
+incremental: true
 
 # Build settings
 markdown: kramdown
